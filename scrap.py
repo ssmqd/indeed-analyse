@@ -1,5 +1,5 @@
 import undetected_chromedriver as uc2 
-import csv, time, os
+import csv
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
