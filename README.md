@@ -3,10 +3,11 @@
 ## Introduction
 This Python tool allows you to scrape job information from Indeed. Please note that this project was created for educational purposes as part of a study.
 
-![video](https://im3.ezgif.com/tmp/ezgif-3-73ba2cac43.gif)
+![video](https://lh3.googleusercontent.com/fife/AGXqzDlP6OLUnbj8J2lGOIYzJnWDl014TYTrp7DuMxBMQduXDempvVTzMRQ-_s5Ycdx89fHcWn4gfCnRuYniDhvbsJ5E4BTDhyveX_9tE3kqcrjwQD9l4rAznvRsH2oHvP-gjEAP_V8CXaRKh-CSge5_Cu30XRipoAI38X2Y6xTVI9uAKjbCSMGVuL6J_iJXDa8MGiskc5XQ1WeUulZ_96t386VQw7oH016O2alO7VMkF5e1YAtGkr1uM4d-PR-TiHGJxDyvNeDuM5lNEockKnSzbBL9wLzJEzyBsXO_cIJgpWVaPJaD67efo5yuudC670zRrWeULZH-MJuaPg5cdSi31VZd5tfEx2IeIfluBtesR3u_xaKQF30XV4RlXRgF614ycFkE8DihqeqBeQ_rvOQz4iGG-nxCCPxdNnveirOOx9lKL6IfUlJkyEEHAIKhCZJZ-XYNGWQ-jUEXQoRAF_AZLWMIkQ5_glwr79kLKgLT6mC4iAGWZswQb_ftHGJQJYMAuy1cfx-sZHi3OcEF2Mi-JFbKqZWM1_DcVhZqbJgcm4LTQX298wLls_HRBYKugGlOQyELzf_ulTzGsY2e6tC31NppyLh-axfSmUFBOR37-JpfDYDP6YZ4gMs76k1ie64eEGJAgux1xNl3oU3_nx9nwwsybd1heodSIYstgFuU2Iy0VbyeF7DvgtpFf-G7JAnFjX3ZpVBoSBVS_xHtxgKBgRSivAdnneDbN6KbgLztKdizt3LZ8YylVQfRegKZDHFmuv_R3Aag3l4Lf0WueZ78HTwtqgetW6H85Z71J86cyTS1UEXGpUxklzbDswnexZCAysup_glLMUXkTUsSXmJBcbKsZixDmN06YxOVR0Lkxu_LMh2zhR-lwr76uYOS7z_kIjBgutSyxeCqbM4mbowlrj3YbGzkFKlPwulQ0xekYLb7n0VzS-HZ4z6asZdGCyFkNhdmVx-QBjPAjTLV4dMqmHC6i9GLmaZHU8U-U6T51uAfaeSDE0jjYV2RPQmcVruJbVz6K3oCwOiZRf5qABjwQo1UL-anSTcMQbgsjesYtgK-pp9u16vAacL0XOz1Iw3JUkdbrt-ffI70tPBicKYXs1lYsa4uf9wtU7CLXbhpHfruCA8-BvZJ_9DlP59ovCPMWviYGQuIUef1HcAnvxz2kJLJS1v-Eu2zG7XF8M6HcuN6kx66ZW6NSYmse9ukab-HCj9Li6aqHco84C_hM7u8RhvljIi3HHGf_b2HJb_pdr3sfWS01xkb8uCo-de_lqvdcia3LWD4AQhrRqqATM0bdsMUgEuw4FH1BCDP9jPnFDYRDkGjMRqGSVHro4yKcqLoEcUDIWNCp0HP3uRYn_fgTdbl8eaPc1Yvd-zzy65q_kBglbyF_lu3xXVZEgCMjqZ1T-qSFb5s1wYLJKP2_dnMbxxFIVJtz_YmygPsWEmS0n_MtgMaU1bz1uxir2dSVAtSvyLnA1rXZpH4iyf_7MmsJWAOMzXXEnTb_T9-_Ms38oR7nAdIlBMgPr6w-4klT9iFPvDpji370VVsAGu4EOIcOUeW0VdHq8SzCdqCqSrlRDn4SSlXbdeiXJiY2btMnKkOBY_wxJJnxv6v6pAJys9UmvZ08bmeR1KPp02Xb_YTnNiMjFv3AAB6GCkTTKVUeEorseK9c6rlz4Aw5BJk-TqJBaERBdmQF2RYx0OtAjzSawkQabh9wkSUeP01hLFK-y54jFvXoY4nJFoQMT6IGcVNddt_UMxPh6MwFNSUHkGISpPNNvPO4Y0jO7w03WKk_cHaJ5ib=w1872-h942)
 
 ## Features
 - User selects topic / number of jobs to scrap
+- Close pop-ups
 - Scrap the following fields (job title, company, job title, location)
 - Export data to CSV file
 
@@ -15,7 +16,7 @@ This Python tool allows you to scrape job information from Indeed. Please note t
 - Selenium
 
 ## Usage
-Start the program -> select a topic to search, and the quantity of jobs to scrap -> program then will automatically scrap all the data and output it into CSV file 
+Start the program -> select a topic to search, and the number of jobs to scrap -> program then will automatically scrap all the data and output it into CSV file 
 
 ## Disclaimer
 This project is intended for educational purposes only. It was created as part of a study to explore web scraping techniques and should be used responsibly and in accordance with Indeed's terms of service.
